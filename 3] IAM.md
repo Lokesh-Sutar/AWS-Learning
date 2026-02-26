@@ -39,7 +39,7 @@
 - IAM policy is a JSON document that specifies permissions. It defines what actions are allowed or denied on resources.
 - Policies can be attached to IAM users, groups, or roles to grant or restrict access.
 
-### Types of policies
+### Types of IAM policies
 1. AWS Managed Policies-
     - These are predefined policies created and maintained by AWS.
     - Examples- AmazonS3ReadOnlyAccess, AmazonEC2FullAccess etc.
