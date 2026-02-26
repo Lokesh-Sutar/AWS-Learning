@@ -126,6 +126,7 @@
     - Each Region is isolated from others to ensure fault tolerance and minimize impact from regional failures. 
 3. Availability Zone (AZ)
     - Inside each region, there are multiple Availability Zones (eg. 3) which helps to keep data safe with the help of making copies.
+    - Each Awailability Zone contains 2 or more Data Centers
     - An Availability Zone is made up of one or more data centers with backup power, networking, and connectivity.
 
 4. Edge Location
