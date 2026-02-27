@@ -28,3 +28,6 @@
 | **Performance Modes**  | Provisioned IOPS, General Purpose          | General Purpose, Max I/O                    |
 | **Throughput Modes**   | Determined by volume size and type         | Bursting, Provisioned                       |
 | **Data Persistence**   | Persistent within the AZ                   | Persistent across multiple AZs              |
+
+
+>  Steps of Connecting EFS Storage to EC2 Instance are mentioned in [8\] NFS.md](8]%20NFS.md) 
