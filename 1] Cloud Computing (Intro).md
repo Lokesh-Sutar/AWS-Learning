@@ -21,44 +21,44 @@
 | **Flexibility**          | Less flexible, changes and upgrades take time | Highly flexible, quick deployment of resources and services |
 
 
-## Cloud Computing Models-
+## Cloud Computing Models
 - Cloud architecture can be divided into:
 1. Deployment Model
     - Based on the amount of data you want to store and who has access to the infrastructure.
     - The cloud deployment model identifies the specific type of cloud environment based on ownership, scale, and access, as well as the cloud’s nature and purpose.
     - Depolyment model further divided into :
-        a. Public Cloud
+        1. Public Cloud
             - Anyone can access services or resources from anywhere.
             - Managed by the cloud provider.
             - Highly scalable, as resources are virtually unlimited.
             - Pay-as-you-go model, no need for large upfront investments.
-        b. Private Cloud
+        2. Private Cloud
             - There is no need to share your hardware with anyone else.
             - A cloud environment dedicated to a single organization.
             - Managed internally or by a third-party provider.
             - Less scalable.
             - Higher upfront costs due to the need to purchase and maintain hardware.
-        c. Hybrid Cloud
+        3. Hybrid Cloud
             - A combination of public and private clouds.
             - More costly than public cloud.
             - Managing hybrid cloud is difficult.
-        d. Community Cloud (Cost Efficient, More Secure)
+        4. Community Cloud (Cost Efficient, More Secure)
             - It allows system or services to be accessible by group of organization.
             - Managed by internally or by third party.
             - Cost efficient, as cost shared between community memebers.
 
 2. Service Model
-    a. IaaS
+    1. IaaS
         - Delivers on-demand services or resources.
         - provides underlying os, security, storage and networking.etc
         - Usually works on pay-as-you-go model.
         - You manages everything apart from physical server.
         - Overall, it manages infrastructure, so known as hardware as service.
-    b. Paas
+    2. Paas
         - PaaS provides platform and environment to allow developers to build application or access services.
         - Provides a platform allowing customers to develop, run, and manage applications without dealing with the underlying infrastructure.
         - Customer only manages/control deployed application instead of infrastructure.
-    c. Saas
+    3. Saas
         - It provides sevices or application over the internet.
         - It reduces need of installing and maintaining softwares.
         - Instead of installing softwares, we simply access it via internet.
