@@ -17,6 +17,11 @@ A collection of structured notes and hands-on scripts covering core AWS services
 | 7 | [EFS](7]%20EFS.md) | Elastic File System — shared, scalable file storage across EC2 instances |
 | 8 | [NFS](8]%20NFS.md) | Connecting EFS to EC2 using NFS — IAM roles, security groups & mounting |
 | 9 | [Load Balancer](9]%20Load%20Balancer.md) | Elastic Load Balancing — ALB, NLB, GLB, target groups & setup walkthrough |
+| 10 | [Auto Scaling](10]%20Auto%20Scaling.md) | Horizontal & vertical scaling, manual vs dynamic scaling, performance & cost optimization |
+| 11 | [Lambda](11]%20Lambda.md) | Serverless compute — run code without provisioning or managing servers |
+| 12 | [RDS](12]%20RDS.md) | Relational Database Service — managed databases, RDBMS vs NoSQL, connecting RDS to EC2 |
+| 13 | [CloudWatch](13]%20Cloudwatch.md) | Monitoring & observability — metrics, logs, alarms & SNS integration |
+| 14 | [VPC](14]%20VPC.md) | Virtual Private Cloud — subnets, gateways, route tables, NACLs, NAT & CIDR |
 | — | [EC2 Scripting (Notebook)](EC2_Scripting.ipynb) | Hands-on Jupyter Notebook for EC2 automation with Boto3 |
 
 ---
